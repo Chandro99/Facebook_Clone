@@ -1,11 +1,6 @@
-# Website | Application | Cloner |
+# Phone | Number | Cloner |
 
-Clone any website using python script ||
-clone website in termux and kali linux ||
-termux clone website ||
-website clone in python ||
-clone website in kali linux script ||
-hey guys welcome to our github page and here we are introudcing a website or Application cloner script...
+
 
 
 
@@ -36,11 +31,11 @@ pip2 install mechanize
 
 pip2 install bs4
 
-git clone https://github.com/Alienrazor/BD
+git clone https://github.com/Chandro99/Facebook_Clone
 
 ls
 
-cd BD
+cd Facebook_Clone
 
 ls
 
