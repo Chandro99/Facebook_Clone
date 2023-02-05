@@ -1,4 +1,4 @@
-#Tools By RC Traincenter
+#Tools By RC Traing Center
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
