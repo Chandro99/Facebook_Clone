@@ -20,23 +20,29 @@ I'm a python devloper and a cyber security student...
 
 To deploy this on termx
 
-```bash
-  apt update
-  apt upgrade
-  git clone https://github.com/Chandro99/Website-Clone
-  ls
-  cd website-clone
-  ls
-  python script.py
-```
+pkg update
 
-## Deployment on Kali Linux
-To deploy in kali 
-```bash
-  apt-get update
-  apt-get upgrade
-  git clone https://github.com/Chandro99/Website-Clone
-  ls
-  cd website-clone
-  python script.py
+pkg upgrade
+
+pkg install git
+
+pkg install python
+
+pkg install python2
+
+pip2 install requests
+
+pip2 install mechanize
+
+pip2 install bs4
+
+git clone https://github.com/Alienrazor/BD
+
+ls
+
+cd BD
+
+ls
+
+python2 Clone.py
 ```
