@@ -1,4 +1,4 @@
-#Tools By Alienrazor
+#Tools By RC Traincenter
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
@@ -28,38 +28,10 @@ print
 
  
 print ("""
-\033[0;91m                 ..              .:.
-              ~YJ^.              .~J5!.
-            ^G@J                   .J@B!
-         ?~ B@Y                      5@&:7?
-        ^@5:#@J                      Y@@!P@^
-        ~@@#&@&7        ....:~      ?@@@#@@^
-       7:J@@@@@7     :75####B7      ?@@@@@J^7
-       !#55#@@@~:    :!~P@@@!      :~@@@#55#!
-        ~P&@@@@5J?^.    !@@@Y   .^JJ5@@@@&P^
-         .7YPB&@BB##BPYY#@@@@YPB##GB@&BPY7.
-          ?B##&@@@@@@@@@@@@@@@@@@@@@@@##G7
-           :?G&@&G#@@@@@@@@@@@@@&#B&@#P7.
-              :~?7~~?#@&@@@@&@B?^!?7^.
-                 !!YP5~~&@@&~~PPJ!!
-                .^7J^  5@@@@Y .^J7^
-                      J@&&&&@?
-                     !#&G##B&#!
-                     G5&5##P&PG
-                     Y7&Y##5#7Y
-                     ..GJ##5P..
-                       J?#&Y?
-                       ~7#&J^
-                       .~#&!.
-                        .#&:
-                        .B&:
-                         G#.
-                         GB
-                         5P
-                         7J
+\033[0;91m                 RC Training Center
                          .         \033[0;91m     """)
 
-print("\033[0;91mThis Tool's Free By Alienrazor")
+print("\033[0;91mThis Tool's Free By RC")
 
 psb('\x1b[1;92mBANGLADESH 6 DIGIT CLONING START PLEASE WAIT .....')
 
@@ -162,35 +134,7 @@ def cb():
  
 
 logo = """                                                                   
-\033[0;91m                 ..              .:.                        
-              ~YJ^.              .~J5!.                     
-            ^G@J                   .J@B!                    
-         ?~ B@Y                      5@&:7?                 
-        ^@5:#@J                      Y@@!P@^                
-        ~@@#&@&7        ....:~      ?@@@#@@^                
-       7:J@@@@@7     :75####B7      ?@@@@@J^7               
-       !#55#@@@~:    :!~P@@@!      :~@@@#55#!               
-        ~P&@@@@5J?^.    !@@@Y   .^JJ5@@@@&P^                
-         .7YPB&@BB##BPYY#@@@@YPB##GB@&BPY7.                 
-          ?B##&@@@@@@@@@@@@@@@@@@@@@@@##G7                  
-           :?G&@&G#@@@@@@@@@@@@@&#B&@#P7.                   
-              :~?7~~?#@&@@@@&@B?^!?7^.                      
-                 !!YP5~~&@@&~~PPJ!!                         
-                .^7J^  5@@@@Y .^J7^                         
-                      J@&&&&@?                              
-                     !#&G##B&#!                             
-                     G5&5##P&PG                             
-                     Y7&Y##5#7Y                             
-                     ..GJ##5P..                             
-                       J?#&Y?                               
-                       ~7#&J^                               
-                       .~#&!.                               
-                        .#&:                                
-                        .B&:                                
-                         G#.                                
-                         GB                                 
-                         5P                                 
-                         7J                                 
+\033[0;91m                 RC Training Center                                
                          .           \033[0;92m                                              
 """                                    
 back = 0
@@ -211,11 +155,11 @@ def menu():
 
     print ''
 
-    print '\033[0;93mAUTHOR   : Alienrazor'
+    print '\033[0;93mAUTHOR   : RC Training Center'
 
-    print '\033[0;94mBD CLONE : FACEBOOK '
+    print '\033[0;94mBD CLONE : BD FACEBOOK '
 
-    print '\033[0;96mGITHUB   : Alienrazor'
+    print '\033[0;96mGITHUB   : RCMMB'
 
     print ''
 
@@ -515,7 +459,7 @@ def action():
 
             if 'access_token' in q:
 
-                print '\x1b[1;92m[Alien-HACKED]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\n' + '\n'
+                print '\x1b[1;92m[RC-HACKED]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\n' + '\n'
 
                 okb = open('save/successfull.txt', 'a')
 
