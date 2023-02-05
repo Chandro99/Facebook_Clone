@@ -39,5 +39,5 @@ cd Facebook_Clone
 
 ls
 
-python2 Clone.py
+python2 clone.py
 ```
