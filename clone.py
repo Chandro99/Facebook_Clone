@@ -471,7 +471,7 @@ def action():
 
             elif 'www.facebook.com' in q['error_msg']:
 
-                print '\x1b[1;91m[Alien-CP]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\x1b[1;92m \x1b[0m \n'
+                print '\x1b[1;91m[RC-CP]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\x1b[1;92m \x1b[0m \n'
 
                 cps = open('save/checkpoint.txt', 'a')
 
